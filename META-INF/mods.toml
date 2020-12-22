@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+
+[[mods]]
+modId="chocolate_milk"
+version="1.0.0"
+displayName="Chocolate Milk Mod"
+logoFile="assets/chocolate_milk/textures/logo.png"
+displayURL="https://github.com/jacobhaap/Chocolate-Milk-MC"
+authors="Jacob Haap"
+description="A basic mod that adds chocolate milk, and an upgraded form of chocolate milk called choccy milk to the game."
+
+[[dependencies.chocolate_milk]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.5,2.0]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
